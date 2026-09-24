@@ -1,16 +1,65 @@
-# React + Vite
+# 🚀 Gonzalo Carrasco | Software Developer & IA Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Portfolio web personal diseñado con una arquitectura moderna y estética **SaaS Premium**. Desarrollado para mostrar proyectos Full-Stack, arquitecturas Cloud y experiencia técnica con un enfoque en alto rendimiento, animaciones fluidas y UI/UX avanzada.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+[Enlace a Vercel](https://tu-proyecto.vercel.app)
 
-## React Compiler
+> Sustituye el enlace anterior por la URL de tu despliegue en Vercel.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the Oxlint configuration
+## ✨ Características Principales
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+- Diseño interactivo **Bento Box** con efecto Glassmorphism
+- Animaciones de scroll y microinteracciones de alto rendimiento
+- Renderizado optimizado con aceleración por hardware
+- Timeline interactivo de trayectoria académica y profesional
+
+---
+
+## 🛠️ Stack Tecnológico
+
+| Tecnología | Uso |
+| --- | --- |
+| **React + Vite** | Interfaz y bundling |
+| **Tailwind CSS** | Estilos utility-first |
+| **Framer Motion** | Animaciones |
+| **Lucide React** | Iconografía |
+
+---
+
+## ⚙️ Instalación Local
+
+```bash
+# Clonar el repositorio
+git clone https://github.com/goncarras85/curriculum.git
+
+# Entrar en el proyecto
+cd curriculum
+
+# Instalar dependencias
+npm install
+
+# Arrancar el servidor de desarrollo
+npm run dev
+```
+
+Abre [http://localhost:5173](http://localhost:5173) en el navegador.
+
+---
+
+## 📫 Contacto
+
+- **GitHub:** [goncarras85](https://github.com/goncarras85)
+- **Email:** [goncarrass@gmail.com](mailto:goncarrass@gmail.com)
+- **LinkedIn:** [gonzalocarrascosanchez](https://www.linkedin.com/in/gonzalocarrascosanchez)
+
+---
+
+<div align="center">
+
+Diseñado y desarrollado por **Gonzalo Carrasco Sánchez**
+
+</div>
